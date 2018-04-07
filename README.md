@@ -2,7 +2,9 @@
 
 Installing docker
 $ sudo yum update -y 
+
 $ sudo yum install -y docker
+
 $ sudo service docker start
 
 Now create a directory name cloud and place requirements.txt, forecast.py, Dockerfile, daily.csv and templates folder which contains try.html
